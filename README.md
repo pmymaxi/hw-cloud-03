@@ -136,8 +136,11 @@ https://nodnix.tech
 
 DNS, сертификат, bucket и содержимое сайта управляются Terraform.
 
+### KMS
+
 <img width="982" height="1716" alt="1" src="https://github.com/user-attachments/assets/ac0a75de-354a-483d-8a59-6d4a23e54855" />
 
+### WebSite
 <img width="1582" height="843" alt="2" src="https://github.com/user-attachments/assets/a755e367-a25d-4b71-9a13-aa363b9b33f4" />
 
 
